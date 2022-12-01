@@ -1,0 +1,1 @@
+winget install --id Oracle.JavaRuntimeEnvironment --source winget
